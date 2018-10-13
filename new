@@ -1,1 +1,19 @@
+<html>
+<head>
+<title>我的网页</title>
+</head>
+<body>
+<h1 style="font-size:48px; color:#FFC0CB; font-family:黑体;">
+欢迎光临本站点
+<h1>
+<h2 style="font-size:24; color:#DB70DB;">
+欢迎进入java web开发的世界
+</h2>
 
+
+</body>
+
+
+
+
+</html>
